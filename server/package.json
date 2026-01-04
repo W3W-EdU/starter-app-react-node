@@ -10,9 +10,9 @@
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "express": "^4.16.3",
+    "express": "^4.22.0",
     "jsonwebtoken": "^9.0.0",
-    "smartcar": "^9.4.0"
+    "smartcar": "^10.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
